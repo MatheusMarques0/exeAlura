@@ -1,0 +1,36 @@
+body {
+    background: rgb(104, 104, 159);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: rgb(255, 244, 93);
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.279);
+}
+
+div {
+    text-align: center;
+    padding: 5px;
+}
+
+footer {
+    color:rgb(115, 49, 122);
+    text-align: center;
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    font-size: 1.3em;
+}
